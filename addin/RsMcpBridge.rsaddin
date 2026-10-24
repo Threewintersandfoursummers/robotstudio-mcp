@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<RobotStudioAddIn xmlns="urn:abb-robotics-robotstudio-addin"
+                  autoLoad="true">
+
+  <ApplicationId>WorkBuddy.RsMcpBridge</ApplicationId>
+  <DisplayName>MCP Bridge</DisplayName>
+  <DisplayVersion>1.0.0</DisplayVersion>
+  <Description>Loopback JSON bridge that lets an external MCP client drive RobotStudio.</Description>
+
+  <AddInType>General</AddInType>
+  <Platform>x64</Platform>
+
+  <Assembly>
+    <FileName>RsMcpBridge.dll</FileName>
+  </Assembly>
+
+  <Dependencies>None</Dependencies>
+
+</RobotStudioAddIn>

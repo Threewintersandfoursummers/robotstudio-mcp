@@ -1,0 +1,4 @@
+addin/bin/
+addin/obj/
+*.user
+*.log
